@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Blanded-Products/",
+    "build": "vite build --base=/11module-training/",
     "preview": "vite preview"
   },
   "devDependencies": {
